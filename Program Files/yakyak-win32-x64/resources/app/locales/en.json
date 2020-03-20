@@ -1,0 +1,143 @@
+{
+	"__MyLocaleLanguage__": "English",
+	"__maintaner__": "http://github.com/yakyak",
+	"menu": {
+		"file": {
+			"title": "YakYak",
+			"hide": "Hide YakYak",
+			"inspector": "Open Inspector",
+			"logout": "Logout",
+			"quit": "Quit"
+		},
+		"help": {
+			"about": {
+				"startup": "Open on Startup",
+				"title": "About YakYak"
+			},
+			"title": "Help"
+		},
+		"edit": {
+			"title": "Edit",
+			"undo": "Undo",
+			"redo": "Redo",
+			"cut": "Cut",
+			"copy": "Copy",
+			"paste": "Paste",
+			"select_all": "Select All",
+			"language": "Language",
+			"dateformat": "Use system date format"
+		},
+		"view": {
+			"title": "View",
+			"conversation": {
+				"title": "Conversation List",
+				"thumbnails": {
+					"show": "Show Thumbnails",
+					"only": "Show Thumbnails Only",
+					"animated": "Show Animated Thumbnails"
+				},
+				"timestamp": "Show Conversation Timestamp",
+				"last": "Show Conversation Last Message",
+				"new": "New conversation",
+				"previous": "Previous Conversation",
+				"next": "Next Conversation",
+				"select": "Select Conversation"
+			},
+			"notification": {
+				"title": "Pop-Up Notification",
+				"show": "Show notifications",
+				"message": "Show message in notifications",
+				"username": "Show username in notifications",
+				"icon": "Show YakYak icon in notifications",
+				"mute": "Disable sound in notifications",
+				"custom_sound": "Use YakYak custom sound for notifications",
+				"toggle": "Toggle notifications"
+			},
+			"emoji": "Convert text to emoji",
+			"suggestemoji": "Suggest emoji on typing",
+			"showimagepreview": "Show image preview",
+			"color_scheme": {
+				"title": "Color Scheme",
+				"default": "Original",
+				"blue": "Blue",
+				"dark": "Dark",
+				"material": "Material",
+				"pop": "Pop",
+				"gruvy": "Gruvy"
+			},
+			"font": {
+				"title": "Font Size",
+				"extra_small": "Extra Small",
+				"small": "Small",
+				"medium": "Medium",
+				"large": "Large",
+				"extra_large": "Extra Large"
+			},
+			"fullscreen": "Toggle Fullscreen",
+			"zoom": {
+				"in": "Zoom in",
+				"out": "Zoom out",
+				"reset": "Actual size"
+			},
+			"tray": {
+				"main": "Tray icon",
+				"show_tray": "Show tray icon",
+				"start_minimize": "Start minimized to tray",
+				"close": "Close to tray",
+				"toggle_minimize": "Toggle window show/hide"
+			},
+			"escape": {
+				"title": "Escape key behavior",
+				"hide": "Hides window",
+				"clear": "Clears input",
+				"default": "default when tray is not showing"
+			}
+		},
+		"title": "Menu"
+	},
+	"conversation": {
+		"numbered": "Conversation %d",
+		"add": "Add new conversation",
+		"title": {
+			"one": "Conversations",
+			"other": "Conversations"
+		},
+		"new": "New conversation",
+		"name": "Conversation name",
+		"search": "Search people",
+		"multiuser": "Create multiuser chat",
+		"options": "Conversation Options",
+		"settings": "Conversation settings",
+		"edit": "Conversation edit",
+		"delete": "Delete conversation"
+	},
+	"connection": {
+		"connecting": "Connecting"
+	},
+	"input": {
+		"message": "Message",
+		"emoticons": "Show emoticons",
+		"image": "Attach image",
+		"typing": "is typing"
+	},
+	"actions": {
+		"ok": "OK"
+	},
+	"window": {
+		"controls": "Minimize"
+	},
+	"notification": {
+		"one": "Notification",
+		"other": "Notification"
+	},
+	"favorite": {
+		"star_it": "Star / unstar",
+		"title": {
+			"one": "Favorite",
+			"other": "Favorite"
+		}
+	},
+	"settings": "Settings",
+	"details": "Details",
+	"title": "YakYak - Hangouts Client"
+}
